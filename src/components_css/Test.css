@@ -1,0 +1,45 @@
+.nav{
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  background-color: #FFFFFF;
+  box-shadow: 0px 2.98256px 7.4564px rgba(0, 0, 0, 0.1);
+}
+
+.nav-items{
+  list-style: none;
+  display: flex;
+  justify-content: space-between;
+  color: black;
+  font-weight: 800;
+}
+
+.nav-items > li {
+  padding: 10px;
+}
+
+.nav-image{
+  width: 100px;
+  margin: 10px;
+}
+
+section{
+  padding: 30px;
+}
+.header1{
+  display: flex;
+  flex-direction: column;
+  margin: 20px;
+}
+
+.header1--groupphoto{
+  width: 80%;
+}
+
+.header1--header-h1{
+
+}
+
+.header1--header-text{
+
+}
